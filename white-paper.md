@@ -1,9 +1,6 @@
 # Disclaimer
 
-The information set out in this white paper is of a preliminary nature.
-Consequently, neither the authors nor any of their respective affiliates assume any responsibility that the information set out herein is final or correct and each of the foregoing disclaims,
-to the fullest extent permitted by applicable law, any and all liability whether arising in tort, contract or otherwise in respect of this white paper.
-Neither this white paper nor anything contained herein shall form the basis of or be relied on in connection with or act as an inducement to enter into any contract or commitment whatsoever.
+在这个白皮书中描述的信息是出于原始灵感的。所以此白皮书创世团队和参与者所描述的信息，在适用法律允许的最大范围内，对现有内容、最终或后期修订版内容，不承担任何和所有的责任，无论是否因侵权行为、合同或其他原因引起。
 
 Nothing in this white paper constitutes an offer to sell or a solicitation to purchase any tokens discussed herein.
 In any event, were this white paper to be deemed to be such an offer or solicitation, no such offer or solicitation is intended or conveyed by this white paper in any jurisdiction where it is unlawful to do so,
