@@ -283,7 +283,7 @@ Considering the unnecessary effort imposed upon any package user when the above 
 If a developer forces everyone to juggle their cups, someone will spill some tea.
 Since the dependency scan is expected to occur at submission, we should note that no steeping from package supporters and sponsors or tea tasters will have happened.
 
-## Package & Package Maintainer Reputation
+## Package & Package Maintainer Reputation 包和包维护者的声誉
 
 Package maintainers must contribute to their package’s reputation and trustworthiness by steeping tea tokens.
 However, a reputation system that relies solely on the author’s economic contribution does not provide sufficient user protection and can be subject to Sybil attacks, where a single individual creates multiple representations of themselves to leave a large volume of positive reviews on their work,
