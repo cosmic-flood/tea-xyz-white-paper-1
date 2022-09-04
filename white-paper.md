@@ -205,12 +205,9 @@ See the package reputation section for more details on the mechanisms used to in
 
 [^14]: See: @semver
 
-# Protocol Overview
+# 协议概述
 
-The design of a protocol to reward open-source contributions is mired with challenges.
-Open-source software is by definition open to all and can, as a result, be subjected to misattribution, appropriation, or malicious tampering.
-However, the open-source community has consistently demonstrated its willingness to highlight good actors and expose bad actors.
-Historically, the energy spent reviewing and commenting on other developers’ contributions has been strictly voluntary, despite how time-consuming and crucial reporting and defending findings may be.
+奖励开源贡献者的协议设计相当有挑战。开源软件的定义是开放代码并供给大众免费使用，但经常会有侵权、篡权、挪用和恶意篡改的事件发生。幸运的是，开源社区的热爱者们始终如一的在维护并拥护开源社区的优秀贡献者，也同时在将脏东西曝光出来。纵观历史，开源社区的各种贡献者都花了很多的心血和时间对代码的审阅、评价、认可做出巨大的贡献。
 
 We intend to create a trustless distribution platform for applications secured by reputation and financial incentives, as we believe adequate rewards for open-source contributions cannot succeed without both a reputation system and the ability for members of the community to communicate their findings and support (or dissent) for a package or the work of a developer.
 
