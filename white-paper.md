@@ -237,7 +237,7 @@ Only then will the tea token be able to represent the total value of open-source
 [^16]: Source: @npmjsChalk
 [^17]: Source: @npmjsLogFourjs
 
-## Package Submission
+## Package Submission 提交一个开源包（还是产品？）
 
 The submission of a package release requires multiple transactions to occur atomically.
 Specifically, the package maintainer must:
